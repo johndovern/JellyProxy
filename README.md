@@ -9,7 +9,7 @@ Jellyfin-mpv-shim sometimes overrides your carefully configured mpv settings. Je
 ## Installation
 
 ```bash
-pip install jellyproxy-py
+pip install jellyproxy
 ```
 
 ## Quick Start
